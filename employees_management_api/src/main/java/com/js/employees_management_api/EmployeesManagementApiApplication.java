@@ -1,0 +1,13 @@
+package com.js.employees_management_api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EmployeesManagementApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EmployeesManagementApiApplication.class, args);
+	}
+
+}
